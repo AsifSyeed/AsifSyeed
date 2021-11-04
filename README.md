@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
-<h3 align="center">Currently working at Brainstation-23 Ltd as Software Engineer Trainee</h3>
+<h3 align="center">Currently working at Brainstation-23 Ltd as Associate Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifsyeed&label=Profile%20views&color=0e75b6&style=flat" alt="asifsyeed" /> </p>
 
