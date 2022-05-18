@@ -22,9 +22,8 @@
 </p>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifsyeed&show_icons=true&locale=en&layout=compact" alt="asifsyeed" /></p>
-<p align="right"><img src = "https://github-readme-stats.vercel.app/api?username=asifsyeed&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifsyeed&" alt="asifsyeed" /></p>
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=asifsyeed&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifsyeed&" alt="asifsyeed" /></p>
 <br>
 <br>
 
@@ -38,9 +37,6 @@
 
 <h3 align="left"><u>Mobile App Development</u></h3>
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
-
-<h3 align="left"><u>Framework</u></h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> </p>
 
 <h3 align="left"><u>AI/ML</u></h3>
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
