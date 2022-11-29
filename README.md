@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
-<h3 align="center">Currently working at Brainstation-23 Ltd as Associate Software Engineer </h3>
+<h3 align="center">iOS | Fintech | Brainstation-23</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifsyeed&label=Profile%20views&color=0e75b6&style=flat" alt="asifsyeed" /> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifSyeed&hide_border=true&layout=compact" align="center" /></div>
 
 - 🌱 I’m currently learning **Swift**
 
