@@ -9,8 +9,8 @@
 
 - ⚡ Fun fact: **Music enthusiast, mostly metalhead. So if you are into metal, hit me up!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me</h3>
+<p align="center">
 <a href="https://twitter.com/asifsyeed5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asifsyeed5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asif-syeed-546761195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-syeed-546761195" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12486985/asif-syeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12486985/asif-syeed" height="30" width="40" /></a>
